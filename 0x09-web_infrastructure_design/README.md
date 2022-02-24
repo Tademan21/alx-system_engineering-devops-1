@@ -11,4 +11,5 @@
 
 ## Authors
 
-Sentayehu Tilahun Adamu
+- Sentayehu Tilahun Adamu
+- Susenyos Leggese 
